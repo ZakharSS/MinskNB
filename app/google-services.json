@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "583691203566",
+    "firebase_url": "https://minsknb-9a6ab.firebaseio.com",
+    "project_id": "minsknb-9a6ab",
+    "storage_bucket": "minsknb-9a6ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583691203566:android:cbad636b06ccccc6",
+        "android_client_info": {
+          "package_name": "com.iit.zakhar.minsknb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583691203566-5llcisfrtk4nuaa2tn99vgc432h4rvq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrb3ESSt15YM2UGLoGKWAXwYaeMItkDJM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

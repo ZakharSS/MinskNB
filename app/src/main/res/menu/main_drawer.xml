@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sabd="http://schemas.android.com/apk/res-auto">
+        <item
+            android:id="@+id/action_soonEvents"
+            android:icon="@drawable/ic_action_soon"
+            android:orderInCategory="100"
+            android:title="@string/action_soon"
+            sabd:showAsAction="always"/>
+        <item
+            android:id="@+id/action_myEvents"
+            android:icon="@drawable/ic_action_myevents"
+            android:orderInCategory="100"
+            android:title="@string/action_my"
+            sabd:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/action_participation"
+            android:icon="@drawable/ic_action_participation"
+            android:orderInCategory="100"
+            android:title="@string/action_participation"
+            sabd:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/action_map"
+            android:icon="@drawable/ic_map"
+            android:orderInCategory="100"
+            android:title="@string/action_map"
+            sabd:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/action_exit"
+            android:icon="@drawable/ic_logout"
+            android:orderInCategory="100"
+            android:title="@string/action_exit"
+            sabd:showAsAction="ifRoom"/>
+</menu>

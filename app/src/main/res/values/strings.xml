@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">MinskNB</string>
+    <!--Login ACTIVITY-->
+    <string name="action_settings">Settings</string>
+    <string name="result">result</string>
+    <string name="MinskNearby">Minsk Nearby</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
+    <string name="passHint">Password</string>
+    <string name="emailHint">Email</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="loading">Please, wait...</string>
+    <string name="auth_failed">Authentication failed</string>
+
+    <string name="emailpassword_status_fmt">Email User: %s</string>
+    <string name="emailpassword_title_text">Email and Password</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="signed_out">Signed Out</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--_________________________________________________-->
+
+    <!--REGISTRATION ACTIVITY-->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="display_name">Display name</string>
+    <string name="location">City</string>
+    <string name="registration">Registration</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="wrong_registration">Please, try to register again</string>
+    <!--_________________________________________________-->
+
+    <!--Main activity-->
+    <string name="action_add">Create event</string>
+    <!--_________________________________________________-->
+
+    <!--Side drawer-->
+    <string name="action_soon"><b>Soon events</b></string>
+    <string name="action_my"><b>My events</b></string>
+    <string name="action_participation"><b>Participation</b></string>
+    <string name="action_map"><b>Map</b></string>
+    <string name="action_exit"><b>Exit</b></string>
+    <!--_________________________________________________-->
+
+    <!--Create Event Fragment layout-->
+    <string name="tvEventCreation">Create Event</string>
+    <string name="tvTitle">Title</string>
+    <string name="etEventTitleHint">Enter the title</string>
+    <string name="tvDescription">Description</string>
+    <string name="etDescriptionHint">Enter your description here</string>
+    <string name="tvStartDate">Starts:</string>
+    <string name="tvEndDate">Ends:</string>
+    <string name="btnCreateEvent">Create</string>
+    <string name="btnCancelCreation">Cancel</string>
+    <string name="tvChooseCategory">Choose category:</string>
+
+    <string-array name="dateChoice">
+        <item>Today</item>
+        <item>Tomorrow</item>
+        <item>Choose date…</item>
+    </string-array>
+
+    <string-array name="categoryChoice">
+        <item>Business</item>
+        <item>Cinema</item>
+        <item>Concert</item>
+        <item>Exhibitions</item>
+        <item>Food&amp;Drink</item>
+        <item>Games</item>
+        <item>Sport</item>
+        <item>Theatre</item>
+        <item>Travelling</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="title_activity_create_event">Create Event</string>
+    <string name="title_activity_maps">Map</string>
+    <!--_________________________________________________-->
+
+
+</resources>
